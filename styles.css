@@ -131,19 +131,19 @@ body {
 }
 
 #bird {
-    background-image: url(Lily_Bird.jpg);
+    background-image: url(pets/Lily_Bird.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #funny_dog {
-    background-image: url(funny_dog.jpg);
+    background-image: url(pets/funny_dog.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #cat {
-    background-image: url(willow_cat.jpg);
+    background-image: url(pets/willow_cat.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
